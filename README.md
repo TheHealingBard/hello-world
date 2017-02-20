@@ -1,2 +1,6 @@
 # hello-world
 tutorial repository
+
+# This is the suggested file that I have to write. 
+# It should be obvious that I don't want to write it, but practice is a good thing...
+# Or so I am told...
